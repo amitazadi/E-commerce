@@ -112,6 +112,7 @@ img.medium {
 .rating span {
   color: #f0c040;
   margin: 0.1rem;
+  size: 5rem;
 }
 
 .ratinglastchild {
