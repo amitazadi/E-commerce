@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
     res.send('Server is working');
 });
 
-app.get('/products', (req, res) => {
+app.get('/api/products', (req, res) => {
     res.send(data.products);
 });
 
